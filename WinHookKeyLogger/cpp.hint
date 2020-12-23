@@ -1,0 +1,2 @@
+#define WINHOOKKEYLOGGER_API __declspec(dllexport)
+#define WINHOOKKEYLOGGER_API __declspec(dllimport)
